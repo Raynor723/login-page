@@ -108,6 +108,7 @@
   font-size: 16px;
   color: #ffffff;
   margin-bottom: 30px;
+  cursor: pointer;
 }
 .or {
   display: flex;
@@ -146,4 +147,5 @@
   color: #fd7401;
   margin-left: 35px;
   margin-right: 35px;
+  cursor: pointer;
 }
